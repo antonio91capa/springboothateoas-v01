@@ -1,0 +1,4 @@
+Existen 3 ramas:
+-- master
+-- develop
+-- testing
